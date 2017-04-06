@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="foo.css">
+</head>
+<body>
+ <h1 id="mian">JK制服馆</h1>
+ 
+ <a class="first" target="_blank" href="http://weibo.com/u/5498072061?topnav=1&wvr=6&topsug=1&is_hot=1#_rnd1490964965661">日式制服</a>
+ <a class="second" target="_blank" href="http://weibo.com/u/5498072061?topnav=1&wvr=6&topsug=1&is_hot=1#_rnd1490964965661">西式制服</a> 
+
+</body>
+</html>
